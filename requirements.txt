@@ -1,0 +1,6 @@
+Pillow
+ffmpeg-python
+requests
+mutagen
+yt-dlp
+yt-dlp-ejs
